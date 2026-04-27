@@ -5,3 +5,4 @@
 
 
 - [阿彬工具箱](https://toolbox.liuyuhe.workers.dev)
+- [Cross Platform Clipboard](https://cross-platform-clipboard.vercel.app)
